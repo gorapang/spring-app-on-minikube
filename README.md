@@ -153,7 +153,7 @@ curl http://10.105.13.229:8999/test
 ![](https://velog.velcdn.com/images/wnwjdqkr/post/c752b8c5-82a3-4312-8686-1c061d90462e/image.png)
 
 
-- 에러 메시지가 뜨지 않는 경우
+- 에러 메시지에 PID가 제공되지 않는 경우
 
 ![](https://velog.velcdn.com/images/wnwjdqkr/post/3e4ea5f0-8321-49e4-b80b-4591322f9e25/image.png)
 
