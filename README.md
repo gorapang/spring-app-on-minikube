@@ -1,6 +1,7 @@
 # Minikube를 이용한 Spring App 배포
 
 Ubuntu 22.04 LTS
+
 Docker version 27.3.1, build ce12230
 
 
